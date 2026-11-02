@@ -4,3 +4,8 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.ipa filter=lfs diff=lfs merge=lfs -text
 ReelFlow.ipa filter=lfs diff=lfs merge=lfs -text
+uzn1.1.12.dmg filter=lfs diff=lfs merge=lfs -text
+uzn1.1.12.ipa filter=lfs diff=lfs merge=lfs -text
+uzn-android-v1.1.12-arm64-v8a.apk filter=lfs diff=lfs merge=lfs -text
+uzn-android-v1.1.12-armeabi-v7a.apk filter=lfs diff=lfs merge=lfs -text
+uzn-portable-windows-v1.1.12.zip filter=lfs diff=lfs merge=lfs -text
